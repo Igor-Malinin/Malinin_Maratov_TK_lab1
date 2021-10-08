@@ -1,3 +1,4 @@
-﻿  MathClient.vcxproj -> C:\Users\vipig\source\repos\MathClient\Debug\MathClient.exe
-  ..\..\MathLibrary\Debug\MathLibrary.dll
-  Скопировано файлов: 1.
+﻿  MathClient.cpp
+C:\Users\vipig\source\repos\MathClient\MathClient\MathClient.cpp(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MathClient.vcxproj -> C:\Users\vipig\source\repos\MathClient\Debug\MathClient.exe
+  Скопировано файлов: 0.
