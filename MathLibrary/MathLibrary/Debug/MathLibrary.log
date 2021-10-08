@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+C:\Users\vipig\source\repos\MathLibrary\MathLibrary\MathLibrary.cpp(10,37): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
+  Создание кода...
+     Создается библиотека C:\Users\vipig\source\repos\MathLibrary\Debug\MathLibrary.lib и объект C:\Users\vipig\source\repos\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> C:\Users\vipig\source\repos\MathLibrary\Debug\MathLibrary.dll
